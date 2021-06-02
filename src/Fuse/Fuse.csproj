@@ -31,7 +31,7 @@
     <NoWarn>1701;1702;1591</NoWarn> 
     
     <!--This line avoids the copy of all dependencies to the Output-Dir-->
-    <!--<CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>-->
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
     
     <!-- copied from vl.stride -->
     <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
